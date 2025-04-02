@@ -9,10 +9,9 @@ Contributors
 License
 
 Project Overview for Spam Mail Detection:
-This project focuses on detecting whether a given email is spam or non-spam using a machine learning model. The model was trained on a dataset containing emails labeled as spam or non-spam (ham) and leverages natural language processing (NLP) techniques to classify emails based on their content.
-
+This project focuses on detecting whether a given email is spam or non-spam using a machine learning model. The model was trained on a dataset containing emails labeled as spam or non-spam (ham).
 Model Training:
-Algorithm: Logistic Regression
+Algorithm: Logistic Regression,
 Logistic Regression is a simple yet effective linear classifier commonly used for binary classification tasks such as spam detection.
 Dataset: The model is trained using a dataset that contains spam and non-spam (ham) emails, each labeled appropriately.
 Text Preprocessing: The following techniques were applied:
